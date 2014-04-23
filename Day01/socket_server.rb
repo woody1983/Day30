@@ -11,4 +11,10 @@ loop do
   puts "Someone is disconnect!" unless client
 end
 
+# Create client
+client = TCPSocket.new 'localhost', 1983
+
+# read from server
+client.gets
+
 
