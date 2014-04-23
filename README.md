@@ -11,3 +11,5 @@
 * 必须有用 
 * 不搬抄书上的Code
 * 一周后不间断就上CodeSchool续一个月
+
+![I pray to myself,for myself](http://i1.b.hjfile.cn/doc/201311/0284015894454231b44e838c27173312.jpg)
